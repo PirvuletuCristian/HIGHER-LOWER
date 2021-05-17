@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HIGHER LOWER</string>
+    <string name="HIGHER_LOWER_QUIZ_APP">MAI MIC/MAI MARE QUIZ</string>
+    <string name="START">START</string>
+    <string name="Questuin">Question will be here</string>
+    <string name="Number">random number</string>
+    <string name="Score">Scor:</string>
+    <string name="MaiMic">MAI MIC</string>
+    <string name="MaiMare">MAI MARE</string>
+    <string name="Info">Informatii despre raspuns</string>
+    <string name="Inapoi">INAINTE</string>
+</resources>
